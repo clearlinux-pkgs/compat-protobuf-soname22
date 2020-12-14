@@ -4,7 +4,7 @@
 #
 Name     : compat-protobuf-soname22
 Version  : 3.11.4
-Release  : 62
+Release  : 63
 URL      : https://github.com/protocolbuffers/protobuf/releases/download/v3.11.4/protobuf-all-3.11.4.tar.gz
 Source0  : https://github.com/protocolbuffers/protobuf/releases/download/v3.11.4/protobuf-all-3.11.4.tar.gz
 Summary  : Google's Data Interchange Format
